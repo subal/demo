@@ -1,0 +1,7 @@
+<apex:page >
+<apex:form >
+<apex:outputLabel >USERNAME</apex:outputLabel>
+<apex:inputText /><apex:commandButton value="submit"/></apex:form>
+
+
+</apex:page>
